@@ -1,5 +1,5 @@
 {
-    "name": "heroku-twilio",
+    "name": "h-twilio",
     "description": "A Twilio helper library for node that is Heroku friendly",
     "version": "0.0.7",
     "author": "Chris Wendel (http://github.com/cewendel)",
